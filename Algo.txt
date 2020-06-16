@@ -1,0 +1,9 @@
+Call pizza hut for order
+Select stuffed crust
+Add Cheese
+Add pepperoni
+Add pineapples
+Place order
+Tell Brandi order was placed
+Order arrived
+Eat pizza with Brandi
